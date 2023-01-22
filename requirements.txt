@@ -1,2 +1,6 @@
+python-dateutil
+spacy
+pyyaml
+srsly
 streamlit
 chatterbot
